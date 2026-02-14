@@ -71,9 +71,6 @@ List the key features of your project:
 
 ---
 
-## Project Documentation
-
-### For Software:
 
 #### Screenshots (Add at least 3)
 
@@ -160,10 +157,6 @@ System shows confirmation alert
 
 ---
 
-## Additional Documentation
-
-## Project Demo
-
 ### Video
 [Video Demo](https://drive.google.com/file/d/1e7_bQG4Q3ZxjpEyPRVNb0BeK_5Tw7HbN/view?usp=drive_link)
 
@@ -192,8 +185,6 @@ coding debugging
 - Custom business logic implementation
 - Integration and testing
 - UI/UX design decisions
-
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
 
 ---
 
