@@ -7,7 +7,6 @@
 ### Team Members
 - Member 1: yumna - sullamussalam science college
   
-
 ### Hosted Project Link
 (https://ymol84333-cell.github.io/techspark/pages/stitch-order.html)
 
@@ -72,21 +71,26 @@ List the key features of your project:
 
 ---
 
-
 ## Project Documentation
 
 ### For Software:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<p align="center">
+  <img src="screenshots/Screenshot 2026-02-14 064714.png" alt="Project Banner" width="100%">
+</p>
+Home Page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<p align="center">
+  <img src="screenshots/Screenshot 2026-02-14 064751.png" alt="Project Banner" width="100%">
+</p>
+Fabric Page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<p align="center">
+  <img src="screenshots/Screenshot 2026-02-14 064903.png" alt="Project Banner" width="100%">
+</p>
+Stichers Page
 
 #### Diagrams
 
@@ -163,7 +167,7 @@ System shows confirmation alert
 ### Video
 [Video Demo](https://drive.google.com/file/d/1e7_bQG4Q3ZxjpEyPRVNb0BeK_5Tw7HbN/view?usp=drive_link)
 
-*This is the flow of my website*
+This is the flow of my website
 
 ---
 
